@@ -1,4 +1,3 @@
-﻿// MIGUEL AGUILERA Y JORGE BRAVO GRUPO E
 
 #include    <iostream>
 #include    <iomanip>
